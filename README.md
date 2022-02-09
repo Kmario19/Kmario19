@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Ramos
 - 👀 I’m interested in JavaScript projects to make them amazing!
-- 🌱 I’m currently learning Cloud Computing (AWS ♥) and awesomen programming techniques :3
+- 🌱 I’m currently learning Cloud Computing (AWS ♥) and awesome programming techniques :3
 - 📫 You can talk to me a little bit at kmario1019@gmail.com
 
 <!---
