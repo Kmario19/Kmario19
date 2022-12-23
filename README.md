@@ -7,7 +7,7 @@
 
 <h3> 📊 &nbsp;Github stats</h3>
 
-<a href="https://github.com/noel-lopez">
+<a href="https://github.com/kmario19">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kmario19&theme=default&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmario19&theme=default&layout=compact" />
 </a>
